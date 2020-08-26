@@ -10,7 +10,7 @@ variable "prefix" {
 
 variable "admin_username" {
   description = "Administrator user name for linux"
-  default     = "admin"
+  default     = "admin1234"
 }
 
 // Tags
